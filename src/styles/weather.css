@@ -1,0 +1,26 @@
+/* weather.css */
+.weather-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.weather-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.weather-container p {
+  font-size: 1rem;
+  color: #666;
+  margin: 5px 0;
+}

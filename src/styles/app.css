@@ -1,0 +1,19 @@
+.container {
+  background-image: url('../../public/pexels-scottwebb-3255761.jpg');
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f8ff;
+  min-height: 100vh;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
